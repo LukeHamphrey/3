@@ -1,0 +1,7 @@
+int[] numbers = { 5, 2, 8, 1, 9, 4 };
+
+int max = numbers.Max();
+int min = numbers.Min();
+
+Console.WriteLine("Max: " + max);
+Console.WriteLine("Min: " + min);
